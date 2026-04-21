@@ -15,7 +15,7 @@ reports:
       {pc}: {instruction} {pc:label}
       INPUT: {io:0x80:hex}
       T0-T1: {T0:hex} {T1:hex}
-      A0-A1: {A0:hex} {A1:hex}
+      A0-A2: {A0:hex} {A2:hex}
       S1-S2: {S1:hex} {S2:hex}
   
   - name: "Result verification"
