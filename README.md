@@ -2,7 +2,7 @@
 
 > Вариант: **reverse_bits**
 > 
-<!-- > [Wrench Simulation Report](https://wrench.edu.swampbuds.me/report/1aec829c-d1ea-42d5-9641-c0edc5ab791d) -->
+> [Wrench Simulation Report](https://wrench.edu.swampbuds.me/report/458b4c80-f568-460e-99ff-85f3f657a212)
 
 ```python
 def reverse_bits(n):
